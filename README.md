@@ -79,7 +79,7 @@ A través de un riguroso preprocesamiento de texto y la aplicación de algoritmo
 
 1.  Clona este repositorio:
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-del-repositorio.git](https://github.com/tu-usuario/nombre-del-repositorio.git)
+    git clone [https://github.com/RubenPalma1108/An-lisis-de-Sentimientos-en-Tweets.git](https://github.com/RubenPalma1108/An-lisis-de-Sentimientos-en-Tweets.git)
     ```
 2.  Navega al directorio del proyecto:
     ```bash
@@ -93,5 +93,5 @@ A través de un riguroso preprocesamiento de texto y la aplicación de algoritmo
 
 ## ✒️ Autor
 
-* **[Rubén Palma]**
+- **Rubén Palma**
 
